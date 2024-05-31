@@ -15,6 +15,7 @@ MoneyMaker is a simple C# console application that converts a given amount of ce
 ### Running the Application
 - Clone the repository or download the MoneyMaker.cs file.
 - Open a terminal or command prompt and navigate to the directory containing MoneyMaker.cs.
+- type dotnet run to execute the program
 
 ## Learning Journey
 - I am currently learning C#, and this is one of the basic projects I worked on to practice my programming skills. This project helped me understand how to handle user input, perform arithmetic calculations, and implement basic control structures in C#.
